@@ -1,2 +1,2 @@
 # OS_basic_chapter_review
-Review of OS basic course of UESTC
+This is a chapter review of operating system course of Information and Software Engineering School of University of Electronic Science and Technology of China, spring of 2019.
